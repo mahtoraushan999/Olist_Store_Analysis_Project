@@ -14,3 +14,29 @@ An Olist Store analysis project using SQL typically involves analyzing a compreh
 > Analyzing customer demographics and geographical distribution.
 
 > Segmenting customers based on purchasing behavior.
+
+**Order and Sales Analysis:**
+> Calculating total sales, average order value, and order frequency over time.
+
+> Identifying peak sales periods and trends.
+
+> Analyzing order status distribution (e.g., delivered, canceled, shipped).
+
+**Product and Seller Performance:**
+> Determining best-selling products and categories.
+
+> Analyzing product review scores and identifying areas for improvement.
+
+> Evaluating seller performance based on sales volume, delivery times, and customer reviews.
+
+**Payment and Shipping Analysis:**
+> Analyzing preferred payment methods and their distribution.
+
+> Investigating shipping performance, including delivery times and potential delays.
+
+> Analyzing freight costs and their impact on profitability.
+
+**Advanced Analysis (Optional):**
+> Correlation analysis between variables like shipping time and review scores.
+
+> Geographical analysis of orders and customer locations.
