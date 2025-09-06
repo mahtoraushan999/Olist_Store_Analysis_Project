@@ -4,7 +4,7 @@ An Olist Store analysis project using SQL typically involves analyzing a compreh
 **Key aspects and analyses in such a project include:**
 
 **Data Exploration and Understanding:**
-> Familiarizing with the multiple tables in the Olist dataset (e.g., **orders**, **customers**, **products**, **sellers**, **order_items**, **payments**, **reviews**, **geolocation** ).
+> Familiarizing with the multiple tables in the Olist dataset (e.g., **orders**, **customers**, **products**, **sellers**, **order_items**, **payments**, **reviews**, **geolocation**).
 
 > Understanding the relationships between tables and identifying primary and foreign keys for joining.
 
