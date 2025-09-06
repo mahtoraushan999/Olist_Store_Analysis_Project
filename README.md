@@ -1,1 +1,2 @@
 # Olist_Store_Analysis_Project
+An Olist Store analysis project using SQL typically involves analyzing a comprehensive e-commerce dataset from Olist, a Brazilian online marketplace. The project's core objective is to extract meaningful insights from the data using SQL queries to understand various aspects of the business, such as customer behavior, order trends, product performance, and delivery efficiency.
