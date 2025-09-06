@@ -9,7 +9,6 @@ An Olist Store analysis project using SQL typically involves analyzing a compreh
 > Understanding the relationships between tables and identifying primary and foreign keys for joining.
 
 **Customer Analysis:**
-
 > Identifying top customers by order count or total spending.
 
 > Analyzing customer demographics and geographical distribution.
