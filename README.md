@@ -42,13 +42,23 @@ An Olist Store analysis project using SQL typically involves analyzing a compreh
 > Geographical analysis of orders and customer locations.
 
 **Typical SQL operations utilized:**
-**>SELECT:** To retrieve data from tables.
-FROM: To specify the table(s) to query.
-JOIN (INNER, LEFT, RIGHT, FULL): To combine data from multiple tables based on common columns.
-WHERE: To filter data based on specific conditions.
-GROUP BY: To aggregate data based on one or more columns.
-HAVING: To filter aggregated results.
-ORDER BY: To sort results.
-Aggregate Functions (COUNT, SUM, AVG, MIN, MAX): To perform calculations on groups of rows.
-Subqueries and Common Table Expressions (CTEs): For more complex data manipulation and analysis.
+
+**> SELECT:** To retrieve data from tables.
+
+**> FROM:** To specify the table(s) to query.
+
+**> JOIN (INNER, LEFT, RIGHT, FULL):** To combine data from multiple tables based on common columns.
+
+**> WHERE:** To filter data based on specific conditions.
+
+**> GROUP BY:** To aggregate data based on one or more columns.
+
+**> HAVING:** To filter aggregated results.
+
+**> ORDER BY:** To sort results.
+
+**> Aggregate Functions (COUNT, SUM, AVG, MIN, MAX):** To perform calculations on groups of rows.
+
+**> Subqueries and Common Table Expressions (CTEs):** For more complex data manipulation and analysis.
+
 The output of such a project often involves a series of SQL queries and their corresponding results, which can then be used for further visualization or reporting to inform business decisions.
